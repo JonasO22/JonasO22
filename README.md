@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">📚 Languages & Tools I Used
+<h3 align="center">🧰 My Dev Toolbox
 
 <div align="center"></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center"/>
