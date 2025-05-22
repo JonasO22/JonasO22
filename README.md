@@ -37,11 +37,13 @@ Feel free to reach out on my Socials or check out some of my projects here on Gi
 
 <div class="Socials">
   <p><div id="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"/>
-  </div></p>
+    <a href="https://www.linkedin.com/in/jonas-de-maio-oliveira-76204225a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"/>
+    </a>
+  </p></div>
   <div id="Instagram">
-    <a href="instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center"/>
+    <a href="https://www.instagram.com/sf.jonas_/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center"/>
     </a>
   </div>
 </div>
