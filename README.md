@@ -17,11 +17,12 @@
 
 <h3 align="center">📚 Languages & Tools I Used
 
-<div align="center">
+<div align="center"></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"  alt="Java" width="40" height="40" align="center" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"  alt="Java" width="40" height="40" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" align="center"/>
 </div>
@@ -31,5 +32,16 @@
 </p>
 
 
-### 📫 Let's Connect
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonas-de-maio-oliveira-76204225a/) or check out some of my projects here on GitHub!
+### 📫 Contact me!
+Feel free to reach out on my Socials or check out some of my projects here on GitHub!
+
+<div class="Socials">
+  <p><div id="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"/>
+  </div></p>
+  <div id="Instagram">
+    <a href="instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center"/>
+    </a>
+  </div>
+</div>
