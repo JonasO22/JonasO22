@@ -33,7 +33,7 @@
 
 
 ### 📫 Contact me!
-Feel free to reach out on my Socials or check out some of my projects here on GitHub!
+Feel free to reach out through social media or check out my projects on GitHub!
 
 <div class="Socials">
   <p><div id="Linkedin">
