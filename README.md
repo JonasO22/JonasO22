@@ -30,4 +30,4 @@
 
 
 ### 📫 Let's Connect
-Feel free to reach out on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jonas-de-maio-oliveira-76204225a/)) or check out some of my projects here on GitHub!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonas-de-maio-oliveira-76204225a/) or check out some of my projects here on GitHub!
