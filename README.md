@@ -4,15 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Certified+Computer+Technician;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="100%" />
+</p>
 
 ### 📌 About Me
 - 🎂 I'm **17 years old**
 - 🎓 I'm currently studying **Software Engineering**
 - ☕ Currently learning **Java**
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="100%" />
-</p>
+---
 
 <h3 align="center">📚 Languages & Tools I Used
 
