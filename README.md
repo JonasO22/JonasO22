@@ -11,7 +11,7 @@
 ### 📌 About Me
 - 🎂 I'm **18 years old**
 - 🎓 I'm currently studying **Software Engineering**
-- ☕ Currently learning **Java**
+- ☕ Currently learning **C#**
 
 ---
 
