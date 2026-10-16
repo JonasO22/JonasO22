@@ -24,11 +24,11 @@
 Feel free to reach out through social media or check out my projects on GitHub!
 
 <div class="Socials">
-  <p><div id="Linkedin">
+  <div id="Linkedin">
     <a href="https://www.linkedin.com/in/jonas-de-maio-oliveira-76204225a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" align="center"/>
     </a>
-  </p></div>
+  </div>
   <div id="Instagram">
     <a href="https://www.instagram.com/sf.jonas_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center"/>
